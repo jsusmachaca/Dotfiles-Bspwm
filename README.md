@@ -22,7 +22,7 @@ git
 ).
 
 
-En ciertas lineas de los archivos bspwmrc ![image](https://user-images.githubusercontent.com/118281223/221349687-4e73a286-a624-4ad5-8bc0-af3c27dfe368.png)
+En ciertas lineas de los archivos bspwmrc (![image](https://user-images.githubusercontent.com/118281223/221349687-4e73a286-a624-4ad5-8bc0-af3c27dfe368.png) )
  y
 status.sh ![image](https://user-images.githubusercontent.com/118281223/221344720-bfc8d8bf-921a-4db5-b5cb-f170c674c547.png)
 se debe cambiar los nombres de la rutas absoluta de la imágen de fondo y la interfaz de red.
