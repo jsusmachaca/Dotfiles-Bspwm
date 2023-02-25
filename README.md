@@ -20,7 +20,12 @@ Primero vas a tener que descargar los siguentes:
 -feh
 -git
 
-# Instalación en Ubuntu y distros basadas en Debian 
+# Instalación de los paquetes necesarios en Ubuntu y distros basadas en Debian 
 ```sh
 sudo apt install bspwm polybar rofi picom feh git 
-...
+```
+# Instalación de los paquetes necesarios en ArchLinux
+
+```sh
+sudo pacman -S bspwm sxhkd polybar rofi picom feh git 
+```
