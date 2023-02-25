@@ -21,5 +21,6 @@ Primero vas a tener que descargar los siguentes:
 -git
 
 # Instalación en Ubuntu y distros basadas en Debian 
-
+...sh
 sudo apt install bspwm polybar rofi picom feh git 
+...
