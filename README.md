@@ -1,5 +1,5 @@
 # Dotfiles-Bspwm
-Archivos de configuración BSPWM versión 1
+# Archivos de configuración BSPWM versión 1
 
 ![image](https://user-images.githubusercontent.com/118281223/221341784-2f1a9884-9c72-4e1a-9fd1-426fc09da727.png)
 
@@ -36,7 +36,7 @@ sudo apt install bspwm polybar rofi picom feh git
 ```sh
 sudo pacman -S bspwm sxhkd polybar rofi picom feh git 
 ```
-# Instalación del thema en distribuciones basadas en Debian
+# Instalación en distribuciones basadas en Debian
 ```sh
 cd  ~/Descargas/
 git clone https://github.com/JsasMachaca/Dotfiles-Bspwm.git
@@ -70,7 +70,7 @@ sudo cp * -r /usr/share/fonts/truetype/
 Para este momento solo queda cerrar sesión y listo
 
 
-# Instalación del thema en ArchLinux
+# Instalación en ArchLinux
 ```sh
 mkdir ~/Descargas
 cd  ~/Descargas/
