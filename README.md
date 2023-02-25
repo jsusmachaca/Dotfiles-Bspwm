@@ -39,7 +39,7 @@ sudo pacman -S bspwm sxhkd polybar rofi picom feh git
 # Instalación del thema en distribuciones basadas en Debian
 ```sh
 cd  ~/Descargas/
-git clone git@github.com:JsasMachaca/Dotfiles-Bspwm.git
+git clone https://github.com/JsasMachaca/Dotfiles-Bspwm.git
 cd Dotfiles-Bspwm/Dotfiles\ Bspwm/
 cp * -r ~/.config/
 ```
@@ -74,7 +74,7 @@ Para este momento solo queda cerrar sesión y listo
 ```sh
 mkdir ~/Descargas
 cd  ~/Descargas/
-git clone git@github.com:JsasMachaca/Dotfiles-Bspwm.git
+git clone https://github.com/JsasMachaca/Dotfiles-Bspwm.git
 cd Dotfiles-Bspwm/Dotfiles\ Bspwm/
 cp * -r ~/.config/
 ```
