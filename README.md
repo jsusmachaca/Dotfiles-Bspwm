@@ -9,4 +9,4 @@ Archivos de configuración BSPWM versión 1
 
 ![image](https://user-images.githubusercontent.com/118281223/221343083-bef0c982-81f6-4943-9b75-9c617c84aa2e.png)
 
-#Instalación
+# Instalación
