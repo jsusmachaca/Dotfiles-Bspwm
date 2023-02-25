@@ -18,7 +18,7 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 $HOME/.config/polybar/launch.sh
-feh --bg-fill /home/jisas/Imágenes/17010.webp
+feh --bg-fill /home/USUARIO/Imágenes/IMAGEN.JPG
 picom -f &
 setxkbmap latam &
 bspc config focus_follows_pointer true
