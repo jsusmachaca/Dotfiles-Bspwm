@@ -9,4 +9,17 @@ Archivos de configuración BSPWM versión 1
 
 ![image](https://user-images.githubusercontent.com/118281223/221343083-bef0c982-81f6-4943-9b75-9c617c84aa2e.png)
 
-# Instalación
+# Dependencias  
+
+Primero vas a tener que descargar los siguentes: 
+-bspwm 
+-sxhkd
+-polybar
+-rofi
+-picom
+-feh
+-git
+
+# Instalación en Ubuntu y distros basadas en Debian 
+
+sudo apt install bspwm polybar rofi picom feh git 
