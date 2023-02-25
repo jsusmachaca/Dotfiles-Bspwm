@@ -70,4 +70,43 @@ sudo cp * -r /usr/share/fonts/truetype/
 Para este momento solo queda cerrar sesión y listo
 
 
+# Instalación del thema en ArchLinux
+```sh
+mkdir ~/Descargas
+cd  ~/Descargas/
+git clone git@github.com:JsasMachaca/Dotfiles-Bspwm.git
+cd Dotfiles-Bspwm/Dotfiles\ Bspwm/
+cp * -r ~/.config/
+```
+Asignación de permisos a los siguientes archivos
+
+--Asignación a los scripts del directorio ~/.config/bin/.
+```sh
+cd ~/.config/bin
+chmod +x *
+```
+--Asignación a los archvos bspwmrc.
+```sh
+cd ~/.config/bspwm/bspwmrc
+chmod +x bspwmrc
+```
+--Asignación a los ficheros de polybar.
+```sh
+cd ~/.config/polybar
+chmod +x launch.sh
+cd scripts
+chmod +x powermenu_alt
+```
+Antes de copiar los fonts vamos a crear un directorio.
+```sh
+sudo mkdir /usr/share/fonts/truetype
+```
+copiando los fonts de ~/.config/polybar/fonts
+```sh
+cd ~/.config/polybar/fonts
+sudo cp * -r /usr/share/fonts/truetype/
+```
+Para este momento solo queda cerrar sesión y listo
+
+
 
