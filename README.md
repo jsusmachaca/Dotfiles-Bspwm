@@ -25,6 +25,7 @@ git
 En ciertas lineas de los archivos bspwmrc ![image](https://user-images.githubusercontent.com/118281223/221344695-6b1c6f28-076e-401f-b012-1b6327978ce6.png) y
 status.sh ![image](https://user-images.githubusercontent.com/118281223/221344720-bfc8d8bf-921a-4db5-b5cb-f170c674c547.png)
 se debe cambiar los nombres de las rutas y la interfaz de red.
+
 En confblue y confwifi deberás cambiar el comando de tu terminal para ejecutar un comando abriendo una terminal nueva ![image](https://user-images.githubusercontent.com/118281223/221344872-810d5115-c201-48cc-bdc5-4c989a44dbc9.png) <- este sería en caso de tener gnome terminal | ![image](https://user-images.githubusercontent.com/118281223/221345017-af3d7265-7007-4bfd-afa1-33392e8fa677.png) <- este sería en caso de tener terminator
 
 # Instalación de los paquetes necesarios en Ubuntu y distros basadas en Debian 
