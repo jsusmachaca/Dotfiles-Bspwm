@@ -20,6 +20,8 @@ picom
 feh
 git
 )
+\n 
+En ciertas lineas de los archivos bspwmrc status se debe cambiar los nombres de las rutas y la interfaz de red
 # Instalación de los paquetes necesarios en Ubuntu y distros basadas en Debian 
 ```sh
 sudo apt install bspwm polybar rofi picom feh git 
@@ -28,9 +30,14 @@ sudo apt install bspwm polybar rofi picom feh git
 ```sh
 sudo pacman -S bspwm sxhkd polybar rofi picom feh git 
 ```
-# Instalación del thema
+# Instalación del thema en distribuciones basadas en Debian
 ```sh
 cd  ~/Descargas/
 git clone git@github.com:JsasMachaca/Dotfiles-Bspwm.git
 cd Dotfiles-Bspwm/Dotfiles\ Bspwm/
 cp * -r ~/.config/
+```
+Asignación de permisos a los siguientes archivos
+```sh
+cd ~/.config/bin
+chmod +x *
