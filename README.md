@@ -22,8 +22,8 @@ git
 ).
 
 
-En ciertas lineas de los archivos bspwmrc ![image](https://user-images.githubusercontent.com/118281223/221344614-0c8bca2b-3cfb-4830-a329-201c0adadc29.png).
-status ![image](https://user-images.githubusercontent.com/118281223/221344656-d2c30917-0d91-485f-9118-58e056dc37ee.png)
+En ciertas lineas de los archivos bspwmrc ![image](https://user-images.githubusercontent.com/118281223/221344695-6b1c6f28-076e-401f-b012-1b6327978ce6.png) y
+status ![image](https://user-images.githubusercontent.com/118281223/221344720-bfc8d8bf-921a-4db5-b5cb-f170c674c547.png)
 se debe cambiar los nombres de las rutas y la interfaz de red
 # Instalación de los paquetes necesarios en Ubuntu y distros basadas en Debian 
 ```sh
