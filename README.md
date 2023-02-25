@@ -44,7 +44,8 @@ cd Dotfiles-Bspwm/Dotfiles\ Bspwm/
 cp * -r ~/.config/
 ```
 Asignación de permisos a los siguientes archivos
---Asignacion a los scripts del directorio ~/.config/bin/.
+
+--Asignación a los scripts del directorio ~/.config/bin/.
 ```sh
 cd ~/.config/bin
 chmod +x *
@@ -61,5 +62,12 @@ chmod +x launch.sh
 cd scripts
 chmod +x powermenu_alt
 ```
+copiando los fonts de ~/.config/polybar/fonts
+```sh
+cd ~/.config/polybar/fonts
+sudo cp * -r /usr/share/fonts/truetype/
+```
+Para este momento solo queda cerrar sesión y listo
+
 
 
