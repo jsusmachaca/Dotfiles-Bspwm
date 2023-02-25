@@ -19,9 +19,12 @@ rofi
 picom
 feh
 git
-)
-\n 
-En ciertas lineas de los archivos bspwmrc status se debe cambiar los nombres de las rutas y la interfaz de red
+).
+
+
+En ciertas lineas de los archivos bspwmrc ![image](https://user-images.githubusercontent.com/118281223/221344614-0c8bca2b-3cfb-4830-a329-201c0adadc29.png).
+status ![image](https://user-images.githubusercontent.com/118281223/221344656-d2c30917-0d91-485f-9118-58e056dc37ee.png)
+se debe cambiar los nombres de las rutas y la interfaz de red
 # Instalación de los paquetes necesarios en Ubuntu y distros basadas en Debian 
 ```sh
 sudo apt install bspwm polybar rofi picom feh git 
