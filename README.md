@@ -11,21 +11,26 @@ Archivos de configuración BSPWM versión 1
 
 # Dependencias  
 
-Primero vas a tener que descargar los siguentes: 
--bspwm 
--sxhkd
--polybar
--rofi
--picom
--feh
--git
-
+Primero vas a tener que descargar los siguentes: (
+bspwm 
+sxhkd
+polybar
+rofi
+picom
+feh
+git
+)
 # Instalación de los paquetes necesarios en Ubuntu y distros basadas en Debian 
 ```sh
 sudo apt install bspwm polybar rofi picom feh git 
 ```
 # Instalación de los paquetes necesarios en ArchLinux
-
 ```sh
 sudo pacman -S bspwm sxhkd polybar rofi picom feh git 
 ```
+# Instalación del thema
+```sh
+cd  ~/Descargas/
+git clone git@github.com:JsasMachaca/Dotfiles-Bspwm.git
+cd Dotfiles-Bspwm/Dotfiles\ Bspwm/
+cp * -r ~/.config/
