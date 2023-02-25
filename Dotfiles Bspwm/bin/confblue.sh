@@ -1,3 +1,3 @@
 #! /bin/bash
 
-gnome-terminal -- /home/jisas/.config/bin/bluetoothcontrol.sh
+gnome-terminal -- /home/USUARIO/.config/bin/bluetoothcontrol.sh
